@@ -37,6 +37,9 @@ permalink: /:categories/:title.html
 
 social_media:
   github_url: https://github.com/HypertasyZOY
+  twitter_url: https://twitter.com/HypertasyZhou
+  facebook_url: https://www.facebook.com/rainkingzhou
+  instagram_url: https://www.instagram.com/hypertasyzoy
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
