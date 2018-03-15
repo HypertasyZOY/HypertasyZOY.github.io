@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: intzero's Blog
-author: intzero
-email: intzero@outlook.com
+title: HypertasyZOY's Blog
+author: Jiyuan Zhou | Hyperion
+email: jiyuanz1@andrew.cmu.edu
 description: > # this means to ignore newlines until "baseurl:"
   CMU MIST | SYSU Software Engineering
 url: http://hypertasyzoy.com # the base hostname & protocol for your site, e.g. http://example.com
@@ -37,10 +37,6 @@ permalink: /:categories/:title.html
 
 social_media:
   github_url: https://github.com/HypertasyZOY
-  weibo_url: http://weibo.com/u/2313016370
-  zhihu_url: https://www.zhihu.com/people/lszero
-  twitter_url: https://twitter.com/_lszero
-  lofter_url: http://intzero.lofter.com/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
