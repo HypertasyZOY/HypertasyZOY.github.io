@@ -17,8 +17,8 @@ title: intzero's Blog
 author: intzero
 email: intzero@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  程序媛/小硕/外协/折腾/技术宅
-url: http://lszero.com # the base hostname & protocol for your site, e.g. http://example.com
+  CMU MIST | SYSU Software Engineering
+url: http://hypertasyzoy.com # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Markdown Processors
@@ -36,7 +36,7 @@ excerpt_separator: <!-- more -->
 permalink: /:categories/:title.html
 
 social_media:
-  github_url: https://github.com/lszero
+  github_url: https://github.com/HypertasyZOY
   weibo_url: http://weibo.com/u/2313016370
   zhihu_url: https://www.zhihu.com/people/lszero
   twitter_url: https://twitter.com/_lszero
