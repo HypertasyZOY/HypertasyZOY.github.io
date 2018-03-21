@@ -2,7 +2,7 @@
 layout: post
 title:  "Thinking about hyperparameters"
 date:   2018-03-20
-categories: Machine Learning, Thinking
+categories: MachineLearning Thinking
 tags: [Dark Hyperparameters, Neural Network]
 ---
 Today, I am tuning my two layers neural network. In CS231n assignment 1. 
