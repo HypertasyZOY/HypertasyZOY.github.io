@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title:  "CNN Parameters share's meaning"
 date:   2018-03-23
