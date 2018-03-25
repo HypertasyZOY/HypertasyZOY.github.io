@@ -16,6 +16,6 @@ And since the following layer will take this layer's output as input, namely tak
 However:
 " One practical example is when the input are faces that have been centered in the image. You might expect that different eye-specific or hair-specific features could (and should) be learned in different spatial locations. In that case it is common to relax the parameter sharing scheme, and instead simply call the layer a Locally-Connected Layer."
 
-![Kri CNN's weights](img/KriCNN'sweights.jpeg)
+![Kri CNN's weights](/img/KriCNN'sweights.jpeg)
 
 "Example filters learned by Krizhevsky et al. Each of the 96 filters shown here is of size [11x11x3], and each one is shared by the 55*55 neurons in one depth slice."
